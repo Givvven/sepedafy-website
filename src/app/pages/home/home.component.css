@@ -1,0 +1,501 @@
+.home {
+    width: 100%;
+    height: 1080px;
+    position: relative;
+    background: #FCF5E5;
+}
+
+.navbar {
+    background-color: #FCF5E5;
+    position: sticky;
+    overflow: hidden;
+    top: 0;
+    z-index: 100;
+}
+
+.sepedafy-hollow {
+    left: 1285px;
+    top: -90px;
+    position: absolute;
+    color: #3e2d07;
+    font-size: 125px;
+    font-family: Montserrat;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.joke-text {
+    width: 1823px;
+    left: 49px;
+    top: 285px;
+    position: absolute;
+    color: #1B1403;
+    font-size: 70px;
+    font-family: Montserrat;
+    font-weight: 700;
+    line-height: 1.25;
+    word-wrap: break-word;
+}
+
+.question-text {
+    width: 660px;
+    left: 802px;
+    top: 590px;
+    position: absolute;
+    text-align: center;
+    color: #61470B;
+    font-size: 35px;
+    font-family: DM Serif Display;
+    font-weight: bold;
+    word-wrap: break-word;
+}
+
+.explanation-text {
+    width: 660px;
+    left: 802px;
+    top: 664px;
+    position: absolute;
+    text-align: justify;
+    color: #090701;
+    font-size: 22px;
+    font-family: Helvetica;
+    font-weight: 510;
+    line-height: 1.25;
+    word-wrap: break-word;
+}
+
+.definition-text {
+    left: 816px;
+    top: 43px;
+    position: absolute;
+    color: #2C2005;
+    font-size: 22.50px;
+    font-family: Montserrat;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.def-button {
+    text-decoration: none;
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+
+.def-button:hover {
+    text-decoration: underline; 
+}
+
+.types-text {
+    left: 986px;
+    top: 43px;
+    position: absolute;
+    color: #2C2005;
+    font-size: 22.50px;
+    font-family: Montserrat;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.types-button {
+    text-decoration: none;
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+
+.types-button:hover {
+    text-decoration: underline;
+}
+
+.sepedafy-text-4 {
+    width: 231px;
+    left: 49px;
+    top: 80px;
+    position: absolute;
+    text-align: right;
+    color: #966E11;
+    font-size: 24.50px;
+    font-family: DM Serif Display;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.sepedafy-text-4:hover {
+    cursor: pointer;
+}
+
+.sepedafy-text-3 {
+    left: 49px;
+    top: -9px;
+    position: relative;
+    color: #503A09;
+    font-size: 65px;
+    font-family: Arapey;
+    font-weight: 400;
+    word-wrap: break-word;
+    padding-bottom: 20px;
+}
+
+.sepedafy-text-3:hover {
+    cursor: pointer;
+}
+
+.home-header {
+    width: 722px;
+    height: 465px;
+    left: 0px;
+    top: 540px;
+    position: absolute;
+    border-top-right-radius: 250px;
+    border-bottom-right-radius: 250px;
+    object-fit: cover;
+    object-position: 0 100%;
+    opacity: 0.9;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.inventor {
+    width: 330px;
+    height: 465px;
+    left: 1542px;
+    top: 540px;
+    position: absolute;
+    border-radius: 50px;
+    object-fit: cover;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.types {
+    width: 100%;
+    height: 2700px;
+    position: relative;
+    background: #FCF5E5;
+}
+
+.type-text {
+    width: 1823px;
+    left: 49px;
+    top: 256px;
+    position: absolute;
+    color: #292D6F;
+    font-size: 100px;
+    font-family: Montserrat;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.sepeda-roda-satu {
+    width: 440px;
+    height: 520px;
+    left: 41px;
+    top: 495px;
+    position: absolute;
+}
+
+.sepeda-roda-satu-card {
+    width: 440px;
+    height: 520px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEFCF7;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.sepeda-roda-satu-pic {
+    width: 440px;
+    height: 220px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    object-fit: cover;
+    object-position: 0 88%;
+}
+
+.sepeda-roda-satu-title {
+    width: 440px;
+    height: 73px;
+    left: 0px;
+    top: 223px;
+    position: absolute;
+    text-align: center;
+    color: #1B1403;
+    font-size: 35px;
+    font-family: DM Serif Display;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.sepeda-roda-satu-def {
+    width: 405px;
+    height: 156px;
+    left: 18px;
+    top: 296px;
+    position: absolute;
+    color: #090701;
+    font-size: 21px;
+    font-family: Helvetica;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.sepeda-roda-dua {
+    width: 440px;
+    height: 520px;
+    left: 507px;
+    top: 547px;
+    position: absolute;
+}
+
+.sepeda-roda-dua-card {
+    width: 440px;
+    height: 520px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEFCF7;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.sepeda-roda-dua-pic {
+    width: 440px;
+    height: 220px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    object-fit: cover;
+}
+
+.sepeda-roda-dua-title {
+    width: 440px;
+    height: 73px;
+    left: 0px;
+    top: 223px;
+    position: absolute;
+    text-align: center;
+    color: #1B1403;
+    font-size: 35px;
+    font-family: DM Serif Display;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.sepeda-roda-dua-def {
+    width: 405px;
+    height: 156px;
+    left: 18px;
+    top: 296px;
+    position: absolute;
+    color: #090701;
+    font-size: 21px;
+    font-family: Helvetica;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.sepeda-roda-tiga {
+    width: 440px;
+    height: 520px;
+    left: 973px;
+    top: 495px;
+    position: absolute;
+}
+
+.sepeda-roda-tiga-card {
+    width: 440px;
+    height: 520px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEFCF7;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.sepeda-roda-tiga-pic {
+    width: 440px;
+    height: 220px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    object-fit: cover;
+}
+
+.sepeda-roda-tiga-title {
+    width: 440px;
+    height: 73px;
+    left: 0px; 
+    top: 223px;
+    position: absolute;
+    text-align: center;
+    color: #1B1403;
+    font-size: 35px;
+    font-family: DM Serif Display;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.sepeda-roda-tiga-def {
+    width: 405px;
+    height: 156px;
+    left: 18px;
+    top: 296px;
+    position: absolute;
+    color: #090701;
+    font-size: 21px;
+    font-family: Helvetica;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.sepeda-tandem {
+    width: 440px;
+    height: 520px;
+    left: 1439px;
+    top: 547px;
+    position: absolute;
+}
+
+.sepeda-tandem-card {
+    width: 440px;
+    height: 520px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEFCF7;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.sepeda-tandem-pic {
+    width: 440px;
+    height: 220px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    object-fit: cover;
+}
+
+.sepeda-tandem-title {
+    width: 440px;
+    height: 73px;
+    left: 0px;
+    top: 223px;
+    position: absolute;
+    text-align: center;
+    color: #1B1403;
+    font-size: 35px;
+    font-family: DM Serif Display;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.sepeda-tandem-def {
+    width: 405px;
+    height: 156px;
+    left: 18px;
+    top: 296px;
+    position: absolute;
+    color: #090701;
+    font-size: 21px;
+    font-family: Helvetica;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.sepeda-fixie {
+    width: 440px;
+    height: 520px;
+    left: 41px;
+    top: 1183px;
+    position: absolute;
+}
+
+.sepeda-fixie-card {
+    width: 440px;
+    height: 520px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #FEFCF7;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.sepeda-fixie-pic {
+    width: 440px;
+    height: 220px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    object-fit: cover;
+}
+
+.sepeda-fixie-title {
+    width: 440px;
+    height: 73px;
+    left: 0px;
+    top: 223px;
+    position: absolute;
+    text-align: center;
+    color: #1B1403;
+    font-size: 35px;
+    font-family: DM Serif Display;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.sepeda-fixie-def {
+    width: 405px;
+    height: 156px;
+    left: 18px;
+    top: 296px;
+    position: absolute;
+    color: #090701;
+    font-size: 21px;
+    font-family: Helvetica;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.sepeda-lipat {
+    
+}
+
+.sepeda-bmx {
+    
+}
+
+.sepeda-kargo {
+    
+}
+
+.sepeda-tur {
+    
+}
+
+.sepeda-listrik {
+    
+}
+
+.team-text a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.team-text a:hover {
+    color: #ffffff;
+} 

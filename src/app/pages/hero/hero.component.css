@@ -1,0 +1,111 @@
+.hero {
+    width: 100%;
+    height: 1080px;
+    position: relative;
+    background: linear-gradient(180deg, #FCF5E5 0%, #FAEED3 100%);
+}
+
+.hero-button {
+    width: 578px;
+    height: 150px;
+    left: 70px;
+    top: 860px;
+    position: absolute;
+    background: #503A09;
+    border-radius: 25px;
+}
+
+.hero-button:hover {
+    cursor: pointer;
+}
+
+.hero-button-text {
+    left: 234px;
+    top: 913px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    font-family: Montserrat;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.hero-button-text a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.hero-header-3 {
+    width: 499px;
+    height: 940px;
+    left: 1345px;
+    top: 70px;
+    position: absolute;
+    border-radius: 25px;
+    object-fit: cover;
+    opacity: 0.95;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.hero-header-3:hover {
+    opacity: 0.9;
+}
+
+.hero-header-2 {
+    width: 1236px;
+    height: 307px;
+    left: 70px;
+    top: 70px;
+    position: absolute;
+    border-radius: 25px;
+    object-fit: cover;
+    object-position: 0 80%;
+    opacity: 0.95;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.hero-header-2:hover {
+    opacity: 0.9;
+}
+
+.hero-header-1 {
+    width: 615px;
+    height: 599px;
+    left: 691px;
+    top: 411px;
+    position: absolute;
+    border-radius: 25px;
+    object-fit: cover;
+    opacity: 0.95;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.hero-header-1:hover {
+    opacity: 0.9;
+}
+
+.sepedafy-text-2 {
+    width: 550px;
+    left: 84px;
+    top: 660px;
+    position: absolute;
+    text-align: right;
+    color: #966E11;
+    font-size: 60px;
+    font-family: DM Serif Display;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.sepedafy-text-1 {
+    width: 578px;
+    left: 56px;
+    top: 460px;
+    position: absolute;
+    color: #503A09;
+    font-size: 160px;
+    font-family: Arapey;
+    font-weight: 400;
+    word-wrap: break-word;
+}
